@@ -44,8 +44,13 @@ And call the sounds using this native:
 https://docs.fivem.net/natives/?_0xE65F427EB70AB1ED
 
 soundId = `-1`
+
 audioName = `"OISS_SSA_VEHAUD_BCSO_NEW_HORN"`
+
 entity = your entity || Most likely `GetVehiclePedIsUsing(PlayerPedId())`
+
 audioRef `"DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_BCSO_NEW"`
+
 isNetwork = `0`
+
 p5 = `0`
