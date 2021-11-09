@@ -23,11 +23,11 @@ Just use and change the audio files (wav.) in the .AWP files in the `dlc_servers
 
 These are the current ELS-Plus settings:
 
-`SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_new"` or other Soundbank
+`SoundBank="dlc_serversideaudio/oiss_ssa_vehaud_bcso_new"` or other Soundbanks
 
-`SoundSet="oiss_ssa_vehaud_bcso_new_soundset"` or other SoundSet
+`SoundSet="oiss_ssa_vehaud_bcso_new_soundset"` or other SoundSets
 
-`AudioString="oiss_ssa_vehaud_bcso_new_horn"` or other AudioString
+`AudioString="oiss_ssa_vehaud_bcso_new_horn"` or other AudioStrings
 
 ## FiveM Scripts
 
@@ -35,7 +35,7 @@ Use this native
 
 https://docs.fivem.net/natives/?_0x2F844A8B08D76685
 
-p0 = `"DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_BCSO_NEW"` or other Soundbank
+p0 = `"DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_BCSO_NEW"` or other Soundbanks
 
 p1 = `false`
 
