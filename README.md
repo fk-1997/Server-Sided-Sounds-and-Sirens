@@ -55,6 +55,7 @@ isNetwork = `0`
 
 p5 = `0`
 
-# Thanks!
 
-Thanks to our server staff, mk7a and the guys on the CodeWalker Discord!
+# Thanks ❤️
+
+Thanks to our server staff, mk7a and the guys on the CodeWalker Discord for the work, support and overall kindness!
