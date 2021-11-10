@@ -17,7 +17,7 @@ You have to use our names (in the files), due to the fact that we were to lazy t
 
 # Usage
 
-Just use and change the audio files (wav.) in the .AWP files in the `dlc_serversideaudio` Folder using OpenIV or other AWC editing tools.
+Just use and change the audio files (wav.) in the .AWP files in the `dlc_serversideaudio` Folder using OpenIV or other AWC editing tools. The awc files shouldn't be larger than 16MB.
 
 ## ELS-Plus
 
