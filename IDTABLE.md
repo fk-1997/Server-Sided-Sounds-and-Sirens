@@ -1,6 +1,6 @@
 # Table with Soundbank SoundSet and AudioString
 
-|Soundbank|SoundSet|AudioString|
+|SoundBank|SoundSet|AudioString|
 |-------------|-------------|--------------------------|
 |New/Modern Sirens of the Los Santos Police Department|||
 |dlc_serversideaudio/oiss_ssa_vehaud_lspd_new|oiss_ssa_vehaud_lspd_new_soundset|oiss_ssa_vehaud_lspd_new_horn|
