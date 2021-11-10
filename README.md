@@ -17,7 +17,7 @@ You have to use our names (in the files), due to the fact that we were to lazy t
 
 # Usage
 
-Just use and change the audio files (wav.) in the .AWP files in the `dlc_serversideaudio` Folder using OpenIV or other AWC editing tools. The awc files shouldn't be larger than 16MB.
+Just use and change the audio files (wav.) in the .AWC files in the `dlc_serversideaudio` Folder using OpenIV or other AWC editing tools. The awc files shouldn't be larger than 16MB. Which we honestly never tested ... So you might experience some fivem restrictions we aren't aware of. (But at least 4MB are totally okay, well tested by us.)
 
 ## ELS-Plus
 
