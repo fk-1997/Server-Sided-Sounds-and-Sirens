@@ -54,3 +54,7 @@ audioRef `"DLC_SERVERSIDEAUDIO\\OISS_SSA_VEHAUD_BCSO_NEW"`
 isNetwork = `0`
 
 p5 = `0`
+
+# Thanks!
+
+Thanks to our server staff, mk7a and the guys on the CodeWalker Discord!
