@@ -21,6 +21,10 @@ Just use and change the audio files (wav.) in the .AWC files in the `dlc_servers
 
 Here is a Table with the Soundbank Soundsets and Audiostrings used in this resource: https://github.com/fk-1997/Server-Sided-Sounds-and-Sirens/blob/main/IDTABLE.md#table-with-soundbank-soundset-and-audiostring
 
+## Luxart Vehicle Control
+
+There is a great wiki over on their github: https://github.com/TrevorBarns/luxart-vehicle-control/wiki/Server-Sided-Audio-Integration
+
 ## ELS-Plus
 
 These are the current ELS-Plus settings:
