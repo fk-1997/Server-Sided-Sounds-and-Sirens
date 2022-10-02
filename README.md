@@ -23,7 +23,7 @@ Here is a Table with the Soundbank Soundsets and Audiostrings used in this resou
 
 ## Luxart Vehicle Control
 
-There is a great wiki over on their github: https://github.com/TrevorBarns/luxart-vehicle-control/wiki/Server-Sided-Audio-Integration
+There is a great wiki over on their github: https://docs.luxartengineering.com/v3/resource-installation/server-sided-siren-integration
 
 ## ELS-Plus
 
@@ -61,6 +61,8 @@ isNetwork = `0`
 
 p5 = `0`
 
+# Testing 
+To test server sided sirens without configuring another resouce check out: https://github.com/TrevorBarns/Server-Side-Audio-Tester
 
 # Thanks ❤️
 
